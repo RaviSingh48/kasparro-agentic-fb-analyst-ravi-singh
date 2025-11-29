@@ -1,0 +1,1 @@
+Given campaign creative messages and audience, propose 4 alternative short ad creatives.

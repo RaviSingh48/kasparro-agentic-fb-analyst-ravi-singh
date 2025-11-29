@@ -1,0 +1,1 @@
+Evaluate hypotheses and assign confidence between 0.0 and 1.0.

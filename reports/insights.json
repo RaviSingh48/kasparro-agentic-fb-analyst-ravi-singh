@@ -1,0 +1,5567 @@
+[
+  {
+    "campaign_name": " en Premium Modal",
+    "avg_ctr": 0.0144,
+    "avg_roas": 4.66,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0144,
+      "avg_roas": 4.66,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": " omen Summer Invisible",
+    "avg_ctr": 0.0128,
+    "avg_roas": 1.77,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0128,
+      "avg_roas": 1.77,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "-EN Signature Soft",
+    "avg_ctr": 0.0151,
+    "avg_roas": 3.81,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0151,
+      "avg_roas": 3.81,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "-omen summer invisible",
+    "avg_ctr": 0.0174,
+    "avg_roas": 23.36,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0174,
+      "avg_roas": 23.36,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "ME  Signature Soft",
+    "avg_ctr": 0.0205,
+    "avg_roas": 1.81,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0205,
+      "avg_roas": 1.81,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN  Signature  Soft",
+    "avg_ctr": 0.014636842105263156,
+    "avg_roas": 1.9863157894736843,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.014636842105263156,
+      "avg_roas": 1.9863157894736843,
+      "impressions_trend": 1.0,
+      "count_rows": 57
+    }
+  },
+  {
+    "campaign_name": "MEN COMF RTMAX LAUNCH",
+    "avg_ctr": 0.0162,
+    "avg_roas": 3.74,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0162,
+      "avg_roas": 3.74,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN COMFORTMAX  AUNCH",
+    "avg_ctr": 0.0175,
+    "avg_roas": 9.55,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0175,
+      "avg_roas": 9.55,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN PREM-UM MODAL",
+    "avg_ctr": 0.0147,
+    "avg_roas": 19.61,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0147,
+      "avg_roas": 19.61,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN PREMIUM -ODAL",
+    "avg_ctr": 0.0131,
+    "avg_roas": 89.33,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0131,
+      "avg_roas": 89.33,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN SIGNATUR  SOFT",
+    "avg_ctr": 0.0147,
+    "avg_roas": 1.64,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0147,
+      "avg_roas": 1.64,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Si nature Soft",
+    "avg_ctr": 0.0163,
+    "avg_roas": 1.7,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0163,
+      "avg_roas": 1.7,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Sigature Soft",
+    "avg_ctr": 0.0147,
+    "avg_roas": 1.59,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0147,
+      "avg_roas": 1.59,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Signatre Soft",
+    "avg_ctr": 0.0149,
+    "avg_roas": 2.97,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0149,
+      "avg_roas": 2.97,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Signature Sft",
+    "avg_ctr": 0.0127,
+    "avg_roas": 1.51,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0127,
+      "avg_roas": 1.51,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN | ATHLEISURECOOLING",
+    "avg_ctr": 0.023,
+    "avg_roas": 3.71,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.023,
+      "avg_roas": 3.71,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN_ ignature_Soft",
+    "avg_ctr": 0.0203,
+    "avg_roas": 15.26,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0203,
+      "avg_roas": 15.26,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN_Si nature_Soft",
+    "avg_ctr": 0.0142,
+    "avg_roas": 2.39,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0142,
+      "avg_roas": 2.39,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN_Signatu e_Soft",
+    "avg_ctr": 0.0136,
+    "avg_roas": 2.06,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0136,
+      "avg_roas": 2.06,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN| ATHLEISURE COOLING",
+    "avg_ctr": 0.017,
+    "avg_roas": 3.15,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.017,
+      "avg_roas": 3.15,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Me- Premium Modal",
+    "avg_ctr": 0.0124,
+    "avg_roas": 1.66,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0124,
+      "avg_roas": 1.66,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Me- | Athleisure Cooling",
+    "avg_ctr": 0.0178,
+    "avg_roas": 16.33,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0178,
+      "avg_roas": 16.33,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men   Athleisure Cooling",
+    "avg_ctr": 0.0215,
+    "avg_roas": 10.14,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0215,
+      "avg_roas": 10.14,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men   old  Colors  Drop",
+    "avg_ctr": 0.0132,
+    "avg_roas": 22.05,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0132,
+      "avg_roas": 22.05,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  C mfortMax  Launch",
+    "avg_ctr": 0.0185,
+    "avg_roas": 6.44,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0185,
+      "avg_roas": 6.44,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  C-mfortMax  Launch",
+    "avg_ctr": 0.0136,
+    "avg_roas": 20.66,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0136,
+      "avg_roas": 20.66,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  CofortMax  Launch",
+    "avg_ctr": 0.0232,
+    "avg_roas": 7.46,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0232,
+      "avg_roas": 7.46,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  Comf rtMax  Launch",
+    "avg_ctr": 0.0146,
+    "avg_roas": 3.64,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0146,
+      "avg_roas": 3.64,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  ComfortMa-  Launch",
+    "avg_ctr": 0.0154,
+    "avg_roas": 3.17,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0154,
+      "avg_roas": 3.17,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  remium  Modal",
+    "avg_ctr": 0.0131,
+    "avg_roas": 6.75,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0131,
+      "avg_roas": 6.75,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  |  Athlei ure  Cooling",
+    "avg_ctr": 0.0221,
+    "avg_roas": 29.92,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0221,
+      "avg_roas": 29.92,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  |  Athleisure  Co ling",
+    "avg_ctr": 0.025,
+    "avg_roas": 24.01,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.025,
+      "avg_roas": 24.01,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  |  Athleisure Cooling",
+    "avg_ctr": 0.0259,
+    "avg_roas": 31.86,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0259,
+      "avg_roas": 31.86,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men -|  Athleisure  Cooling",
+    "avg_ctr": 0.0221,
+    "avg_roas": 9.77,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0221,
+      "avg_roas": 9.77,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colo-s Drop",
+    "avg_ctr": 0.0123,
+    "avg_roas": 4.76,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0123,
+      "avg_roas": 4.76,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colors-Drop",
+    "avg_ctr": 0.0126,
+    "avg_roas": 7.04,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0126,
+      "avg_roas": 7.04,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Comf-rtMax Launch",
+    "avg_ctr": 0.015433333333333334,
+    "avg_roas": 10.72,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.015433333333333334,
+      "avg_roas": 10.72,
+      "impressions_trend": 1.0,
+      "count_rows": 3
+    }
+  },
+  {
+    "campaign_name": "Men Comfo tMax Launch",
+    "avg_ctr": 0.0148,
+    "avg_roas": 5.71,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0148,
+      "avg_roas": 5.71,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Comfo tmax Launch",
+    "avg_ctr": 0.0223,
+    "avg_roas": 24.3,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0223,
+      "avg_roas": 24.3,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men ComforMax Launch",
+    "avg_ctr": 0.0195,
+    "avg_roas": 20.88,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0195,
+      "avg_roas": 20.88,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Comfort-ax Launch",
+    "avg_ctr": 0.0169,
+    "avg_roas": 28.25,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0169,
+      "avg_roas": 28.25,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men ComfortMax L unch",
+    "avg_ctr": 0.0154,
+    "avg_roas": 5.53,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0154,
+      "avg_roas": 5.53,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men ComfortMax Lunch",
+    "avg_ctr": 0.0129,
+    "avg_roas": 2.68,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0129,
+      "avg_roas": 2.68,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men ComfortMax_Launch",
+    "avg_ctr": 0.0164,
+    "avg_roas": 6.64,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0164,
+      "avg_roas": 6.64,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Comfortma- Launch",
+    "avg_ctr": 0.0145,
+    "avg_roas": 37.11,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0145,
+      "avg_roas": 37.11,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Comfortmax Lau ch",
+    "avg_ctr": 0.0233,
+    "avg_roas": 22.61,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0233,
+      "avg_roas": 22.61,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Comfortmax Lunch",
+    "avg_ctr": 0.0192,
+    "avg_roas": 5.38,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0192,
+      "avg_roas": 5.38,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Sig-ature Soft",
+    "avg_ctr": 0.0128,
+    "avg_roas": 5.35,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0128,
+      "avg_roas": 5.35,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Sigature Soft",
+    "avg_ctr": 0.0143,
+    "avg_roas": 3.9,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0143,
+      "avg_roas": 3.9,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Signture Soft",
+    "avg_ctr": 0.0144,
+    "avg_roas": 5.35,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0144,
+      "avg_roas": 5.35,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men | Ath eisure Cooling",
+    "avg_ctr": 0.0226,
+    "avg_roas": 11.27,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0226,
+      "avg_roas": 11.27,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men | Athlei ure Cooling",
+    "avg_ctr": 0.0187,
+    "avg_roas": 85.33,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0187,
+      "avg_roas": 85.33,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men | Athlei-ure Cooling",
+    "avg_ctr": 0.0254,
+    "avg_roas": 10.85,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0254,
+      "avg_roas": 10.85,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men | Athleis re Cooling",
+    "avg_ctr": 0.014,
+    "avg_roas": 26.07,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.014,
+      "avg_roas": 26.07,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men | Athleisur- Cooling",
+    "avg_ctr": 0.0204,
+    "avg_roas": 5.85,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0204,
+      "avg_roas": 5.85,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men | thleisure Cooling",
+    "avg_ctr": 0.0247,
+    "avg_roas": 34.37,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0247,
+      "avg_roas": 34.37,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men |Athleisure Cooling",
+    "avg_ctr": 0.0208,
+    "avg_roas": 22.89,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0208,
+      "avg_roas": 22.89,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men-Athleisure Cooli-g",
+    "avg_ctr": 0.0256,
+    "avg_roas": 9.18,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0256,
+      "avg_roas": 9.18,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men-Athleisure Cooling",
+    "avg_ctr": 0.020205172413793108,
+    "avg_roas": 21.514827586206895,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.020205172413793108,
+      "avg_roas": 21.514827586206895,
+      "impressions_trend": 1.0,
+      "count_rows": 58
+    }
+  },
+  {
+    "campaign_name": "Men-Comfortmax Launch",
+    "avg_ctr": 0.0177,
+    "avg_roas": 2.74,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0177,
+      "avg_roas": 2.74,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men-thleisure Cooling",
+    "avg_ctr": 0.0285,
+    "avg_roas": 5.5,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0285,
+      "avg_roas": 5.5,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MenComfortmax Launch",
+    "avg_ctr": 0.0171,
+    "avg_roas": 3.14,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0171,
+      "avg_roas": 3.14,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men_Bold_Co ors_Drop",
+    "avg_ctr": 0.013,
+    "avg_roas": 8.78,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.013,
+      "avg_roas": 8.78,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men_Co fortMax_Launch",
+    "avg_ctr": 0.0227,
+    "avg_roas": 3.19,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0227,
+      "avg_roas": 3.19,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men_Com-ortMax_Launch",
+    "avg_ctr": 0.0168,
+    "avg_roas": 6.23,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0168,
+      "avg_roas": 6.23,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men_Comf-rtMax_Launch",
+    "avg_ctr": 0.0147,
+    "avg_roas": 6.6,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0147,
+      "avg_roas": 6.6,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men_ComfortMax_Launch",
+    "avg_ctr": 0.015820289855072462,
+    "avg_roas": 10.363823529411764,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.015820289855072462,
+      "avg_roas": 10.363823529411764,
+      "impressions_trend": 1.0,
+      "count_rows": 69
+    }
+  },
+  {
+    "campaign_name": "Men_|_Athleiure_Cooling",
+    "avg_ctr": 0.0212,
+    "avg_roas": 13.15,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0212,
+      "avg_roas": 13.15,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men_|_Atleisure_Cooling",
+    "avg_ctr": 0.0172,
+    "avg_roas": 7.92,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0172,
+      "avg_roas": 7.92,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Mn ComfortMax Launch",
+    "avg_ctr": 0.0151,
+    "avg_roas": 8.29,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0151,
+      "avg_roas": 8.29,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "W MEN FIT & LIFT",
+    "avg_ctr": 0.0155,
+    "avg_roas": 4.855,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0155,
+      "avg_roas": 4.855,
+      "impressions_trend": 1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "W men Fit & Lift",
+    "avg_ctr": 0.0211,
+    "avg_roas": 19.52,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0211,
+      "avg_roas": 19.52,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "W-men  |  Studio  Sports",
+    "avg_ctr": 0.0181,
+    "avg_roas": 5.62,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0181,
+      "avg_roas": 5.62,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "W-men Fit & Lift",
+    "avg_ctr": 0.0206,
+    "avg_roas": 4.76,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0206,
+      "avg_roas": 4.76,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WMEN Cotton Classics",
+    "avg_ctr": 0.0127,
+    "avg_roas": 10.96,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0127,
+      "avg_roas": 10.96,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Cotto-  Classics",
+    "avg_ctr": 0.0155,
+    "avg_roas": 25.93,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0155,
+      "avg_roas": 25.93,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Cotton  Cl-ssics",
+    "avg_ctr": 0.0122,
+    "avg_roas": 12.45,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0122,
+      "avg_roas": 12.45,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Cotton  Cla-sics",
+    "avg_ctr": 0.0124,
+    "avg_roas": 3.0,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0124,
+      "avg_roas": 3.0,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Seamless  Eve yday",
+    "avg_ctr": 0.0124,
+    "avg_roas": 5.78,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0124,
+      "avg_roas": 5.78,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN COTTON CLASS-CS",
+    "avg_ctr": 0.0123,
+    "avg_roas": 20.1,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0123,
+      "avg_roas": 20.1,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN Ctton Classics",
+    "avg_ctr": 0.017,
+    "avg_roas": 16.37,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.017,
+      "avg_roas": 16.37,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN FIT & -IFT",
+    "avg_ctr": 0.0207,
+    "avg_roas": 1.92,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0207,
+      "avg_roas": 1.92,
+      "impressions_trend": 1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "WOMEN SUMMER I VISIBLE",
+    "avg_ctr": 0.0137,
+    "avg_roas": 19.08,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0137,
+      "avg_roas": 19.08,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN-FIT & LIFT",
+    "avg_ctr": 0.0252,
+    "avg_roas": 11.92,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0252,
+      "avg_roas": 11.92,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN_Cotton_Clas ics",
+    "avg_ctr": 0.0143,
+    "avg_roas": 15.88,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0143,
+      "avg_roas": 15.88,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wmen_Fit_&_Lift",
+    "avg_ctr": 0.0128,
+    "avg_roas": 2.6,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0128,
+      "avg_roas": 2.6,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wo en  Fit  &  Lift",
+    "avg_ctr": 0.0223,
+    "avg_roas": 2.79,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0223,
+      "avg_roas": 2.79,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wo en Fit & Lift",
+    "avg_ctr": 0.0189,
+    "avg_roas": 2.93,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0189,
+      "avg_roas": 2.93,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wo-en  |  Studio  Sports",
+    "avg_ctr": 0.0124,
+    "avg_roas": 21.56,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0124,
+      "avg_roas": 21.56,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wo-en Fit & Lift",
+    "avg_ctr": 0.0176,
+    "avg_roas": 11.4,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0176,
+      "avg_roas": 11.4,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Woen Fit and Lift",
+    "avg_ctr": 0.0182,
+    "avg_roas": 3.15,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0182,
+      "avg_roas": 3.15,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wom n  Fit  &  Lift",
+    "avg_ctr": 0.0224,
+    "avg_roas": 2.75,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0224,
+      "avg_roas": 2.75,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wom-n Cotton Classics",
+    "avg_ctr": 0.0123,
+    "avg_roas": 2.35,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0123,
+      "avg_roas": 2.35,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wome  Fit & Lift",
+    "avg_ctr": 0.0167,
+    "avg_roas": 8.58,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0167,
+      "avg_roas": 8.58,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wome  Fit and Lift",
+    "avg_ctr": 0.0187,
+    "avg_roas": 2.91,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0187,
+      "avg_roas": 2.91,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women  -it  &  Lift",
+    "avg_ctr": 0.0166,
+    "avg_roas": 2.14,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0166,
+      "avg_roas": 2.14,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women  Fit     Lift",
+    "avg_ctr": 0.015,
+    "avg_roas": 11.36,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.015,
+      "avg_roas": 11.36,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women  Fit  &  Lft",
+    "avg_ctr": 0.0154,
+    "avg_roas": 2.12,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0154,
+      "avg_roas": 2.12,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women  it & Lift",
+    "avg_ctr": 0.0253,
+    "avg_roas": 20.69,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0253,
+      "avg_roas": 20.69,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women -it & Lift",
+    "avg_ctr": 0.0204,
+    "avg_roas": 3.43,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0204,
+      "avg_roas": 3.43,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Cotton Clas ics",
+    "avg_ctr": 0.0131,
+    "avg_roas": 17.96,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0131,
+      "avg_roas": 17.96,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Cotton Classis",
+    "avg_ctr": 0.0131,
+    "avg_roas": 4.9,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0131,
+      "avg_roas": 4.9,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women F t & Lift",
+    "avg_ctr": 0.018,
+    "avg_roas": 1.76,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.018,
+      "avg_roas": 1.76,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Fi  & Lift",
+    "avg_ctr": 0.0172,
+    "avg_roas": 1.58,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0172,
+      "avg_roas": 1.58,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Fit and Lift",
+    "avg_ctr": 0.01777948717948718,
+    "avg_roas": 6.099230769230769,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.01777948717948718,
+      "avg_roas": 6.099230769230769,
+      "impressions_trend": 1.0,
+      "count_rows": 39
+    }
+  },
+  {
+    "campaign_name": "Women Fit& Lift",
+    "avg_ctr": 0.0187,
+    "avg_roas": 4.25,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0187,
+      "avg_roas": 4.25,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Se mless Everyday",
+    "avg_ctr": 0.0139,
+    "avg_roas": 3.6,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0139,
+      "avg_roas": 3.6,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Seamless Eve yday",
+    "avg_ctr": 0.0128,
+    "avg_roas": 11.49,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0128,
+      "avg_roas": 11.49,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Sum er Invisible",
+    "avg_ctr": 0.0125,
+    "avg_roas": 11.62,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0125,
+      "avg_roas": 11.62,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Summer Invisi-le",
+    "avg_ctr": 0.0132,
+    "avg_roas": 11.33,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0132,
+      "avg_roas": 11.33,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women it & Lift",
+    "avg_ctr": 0.0143,
+    "avg_roas": 5.57,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0143,
+      "avg_roas": 5.57,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women | Stu-io Sports",
+    "avg_ctr": 0.0154,
+    "avg_roas": 24.78,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0154,
+      "avg_roas": 24.78,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women | Studi Sports",
+    "avg_ctr": 0.0122,
+    "avg_roas": 5.57,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0122,
+      "avg_roas": 5.57,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women | Studio  ports",
+    "avg_ctr": 0.013,
+    "avg_roas": 2.1,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.013,
+      "avg_roas": 2.1,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women | Studio Spors",
+    "avg_ctr": 0.0129,
+    "avg_roas": 16.29,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0129,
+      "avg_roas": 16.29,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women-Stud o Sports",
+    "avg_ctr": 0.014,
+    "avg_roas": 21.64,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.014,
+      "avg_roas": 21.64,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women-Studio Spors",
+    "avg_ctr": 0.0158,
+    "avg_roas": 21.9,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0158,
+      "avg_roas": 21.9,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women-Studio Spots",
+    "avg_ctr": 0.0185,
+    "avg_roas": 28.34,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0185,
+      "avg_roas": 28.34,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women_Fit_&_Lift",
+    "avg_ctr": 0.017701923076923073,
+    "avg_roas": 6.098431372549018,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.017701923076923073,
+      "avg_roas": 6.098431372549018,
+      "impressions_trend": 1.0,
+      "count_rows": 52
+    }
+  },
+  {
+    "campaign_name": "Women_|_Studio_Spo ts",
+    "avg_ctr": 0.0137,
+    "avg_roas": 16.0,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0137,
+      "avg_roas": 16.0,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "en_ComfortMax_Launch",
+    "avg_ctr": 0.0217,
+    "avg_roas": 9.52,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0217,
+      "avg_roas": 9.52,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "m n | athleisure cooling",
+    "avg_ctr": 0.0179,
+    "avg_roas": 13.876666666666665,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0179,
+      "avg_roas": 13.876666666666665,
+      "impressions_trend": 1.0,
+      "count_rows": 3
+    }
+  },
+  {
+    "campaign_name": "men co fortmax launch",
+    "avg_ctr": 0.0149,
+    "avg_roas": 2.74,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0149,
+      "avg_roas": 2.74,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "men comfor-max launch",
+    "avg_ctr": 0.0149,
+    "avg_roas": 8.08,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0149,
+      "avg_roas": 8.08,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "men comfotmax launch",
+    "avg_ctr": 0.0184,
+    "avg_roas": 7.56,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0184,
+      "avg_roas": 7.56,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "men omfortmax launch",
+    "avg_ctr": 0.022,
+    "avg_roas": 19.09,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.022,
+      "avg_roas": 19.09,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "men signa ure soft",
+    "avg_ctr": 0.0145,
+    "avg_roas": 2.44,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0145,
+      "avg_roas": 2.44,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "men signature soft",
+    "avg_ctr": 0.014323214285714286,
+    "avg_roas": 3.34375,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.014323214285714286,
+      "avg_roas": 3.34375,
+      "impressions_trend": 1.0,
+      "count_rows": 56
+    }
+  },
+  {
+    "campaign_name": "men | athleisure cooling",
+    "avg_ctr": 0.02062878787878788,
+    "avg_roas": 18.869393939393937,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.02062878787878788,
+      "avg_roas": 18.869393939393937,
+      "impressions_trend": 1.0,
+      "count_rows": 66
+    }
+  },
+  {
+    "campaign_name": "men | athlisure cooling",
+    "avg_ctr": 0.0183,
+    "avg_roas": 15.5,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0183,
+      "avg_roas": 15.5,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "mn | athleisure cooling",
+    "avg_ctr": 0.0293,
+    "avg_roas": 11.6,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0293,
+      "avg_roas": 11.6,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "omen | Studio Sports",
+    "avg_ctr": 0.0138,
+    "avg_roas": 11.44,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0138,
+      "avg_roas": 11.44,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "w men fit & lift",
+    "avg_ctr": 0.0212,
+    "avg_roas": 9.94,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0212,
+      "avg_roas": 9.94,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "wo en fit & lift",
+    "avg_ctr": 0.0166,
+    "avg_roas": 3.68,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0166,
+      "avg_roas": 3.68,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "woen  Summer  Invisible",
+    "avg_ctr": 0.0159,
+    "avg_roas": 4.5,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0159,
+      "avg_roas": 4.5,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "wom-n_Summer_Invisible",
+    "avg_ctr": 0.0122,
+    "avg_roas": 6.18,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0122,
+      "avg_roas": 6.18,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women  -ummer  Invisible",
+    "avg_ctr": 0.0153,
+    "avg_roas": 5.25,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0153,
+      "avg_roas": 5.25,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women  Summer  -nvisible",
+    "avg_ctr": 0.0178,
+    "avg_roas": 15.74,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0178,
+      "avg_roas": 15.74,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women Summer  nvisible",
+    "avg_ctr": 0.0133,
+    "avg_roas": 2.99,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0133,
+      "avg_roas": 2.99,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women fit & ift",
+    "avg_ctr": 0.017,
+    "avg_roas": 1.79,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.017,
+      "avg_roas": 1.79,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women fit & lift",
+    "avg_ctr": 0.01774074074074074,
+    "avg_roas": 7.329814814814815,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.01774074074074074,
+      "avg_roas": 7.329814814814815,
+      "impressions_trend": 1.0,
+      "count_rows": 54
+    }
+  },
+  {
+    "campaign_name": "women fit-& lift",
+    "avg_ctr": 0.0159,
+    "avg_roas": 1.54,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0159,
+      "avg_roas": 1.54,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women-| studio sports",
+    "avg_ctr": 0.0162,
+    "avg_roas": 4.98,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0162,
+      "avg_roas": 4.98,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "womn  Summer  Invisible",
+    "avg_ctr": 0.0125,
+    "avg_roas": 3.05,
+    "hypotheses": [
+      "No strong negative signals; performance within expected range."
+    ],
+    "confidence": 0.5,
+    "evidence": {
+      "avg_ctr": 0.0125,
+      "avg_roas": 3.05,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN COMFORTMAX LAUNCH",
+    "avg_ctr": 0.0163,
+    "avg_roas": 11.550999999999998,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.0163,
+      "avg_roas": 11.550999999999998,
+      "impressions_trend": -1.0,
+      "count_rows": 40
+    }
+  },
+  {
+    "campaign_name": "MEN SIGNATURE SOFT",
+    "avg_ctr": 0.014785185185185182,
+    "avg_roas": 2.3588888888888895,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.014785185185185182,
+      "avg_roas": 2.3588888888888895,
+      "impressions_trend": -1.0,
+      "count_rows": 54
+    }
+  },
+  {
+    "campaign_name": "MEN Sign-ture Soft",
+    "avg_ctr": 0.01405,
+    "avg_roas": 8.94,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.01405,
+      "avg_roas": 8.94,
+      "impressions_trend": -1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "MEN Signature Soft",
+    "avg_ctr": 0.014523780487804878,
+    "avg_roas": 2.3529268292682928,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.014523780487804878,
+      "avg_roas": 2.3529268292682928,
+      "impressions_trend": -1.0,
+      "count_rows": 164
+    }
+  },
+  {
+    "campaign_name": "MEN | ATHLEISURE COOLING",
+    "avg_ctr": 0.02304150943396227,
+    "avg_roas": 20.460566037735845,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.02304150943396227,
+      "avg_roas": 20.460566037735845,
+      "impressions_trend": -1.0,
+      "count_rows": 53
+    }
+  },
+  {
+    "campaign_name": "MEN_Signature_Soft",
+    "avg_ctr": 0.015565116279069768,
+    "avg_roas": 2.16906976744186,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.015565116279069768,
+      "avg_roas": 2.16906976744186,
+      "impressions_trend": -1.0,
+      "count_rows": 43
+    }
+  },
+  {
+    "campaign_name": "Men  ComfortMax  Launch",
+    "avg_ctr": 0.014784313725490194,
+    "avg_roas": 11.554117647058826,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.014784313725490194,
+      "avg_roas": 11.554117647058826,
+      "impressions_trend": -1.0,
+      "count_rows": 51
+    }
+  },
+  {
+    "campaign_name": "Men  |  Athleisure  Cooling",
+    "avg_ctr": 0.022284444444444444,
+    "avg_roas": 19.891333333333332,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.022284444444444444,
+      "avg_roas": 19.891333333333332,
+      "impressions_trend": -1.0,
+      "count_rows": 45
+    }
+  },
+  {
+    "campaign_name": "Men ComfortMax Launch",
+    "avg_ctr": 0.015354193548387098,
+    "avg_roas": 11.781623376623376,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.015354193548387098,
+      "avg_roas": 11.781623376623376,
+      "impressions_trend": -1.0,
+      "count_rows": 155
+    }
+  },
+  {
+    "campaign_name": "Men Comfortmax Launch",
+    "avg_ctr": 0.016532727272727272,
+    "avg_roas": 8.474074074074073,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.016532727272727272,
+      "avg_roas": 8.474074074074073,
+      "impressions_trend": -1.0,
+      "count_rows": 55
+    }
+  },
+  {
+    "campaign_name": "Men Signature Soft",
+    "avg_ctr": 0.014002439024390245,
+    "avg_roas": 2.348292682926829,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.014002439024390245,
+      "avg_roas": 2.348292682926829,
+      "impressions_trend": -1.0,
+      "count_rows": 41
+    }
+  },
+  {
+    "campaign_name": "Men | Athleisure Cooling",
+    "avg_ctr": 0.020976027397260275,
+    "avg_roas": 20.52472602739726,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.020976027397260275,
+      "avg_roas": 20.52472602739726,
+      "impressions_trend": -1.0,
+      "count_rows": 146
+    }
+  },
+  {
+    "campaign_name": "Men_|_Athleisure_Cooling",
+    "avg_ctr": 0.021607017543859644,
+    "avg_roas": 20.259999999999998,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.021607017543859644,
+      "avg_roas": 20.259999999999998,
+      "impressions_trend": -1.0,
+      "count_rows": 57
+    }
+  },
+  {
+    "campaign_name": "WOMEN Coton Classics",
+    "avg_ctr": 0.0123,
+    "avg_roas": 12.030000000000001,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.0123,
+      "avg_roas": 12.030000000000001,
+      "impressions_trend": -1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "WOMEN FIT & LIFT",
+    "avg_ctr": 0.0180968253968254,
+    "avg_roas": 5.372903225806453,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.0180968253968254,
+      "avg_roas": 5.372903225806453,
+      "impressions_trend": -1.0,
+      "count_rows": 63
+    }
+  },
+  {
+    "campaign_name": "Wom n Fit & Lift",
+    "avg_ctr": 0.0219,
+    "avg_roas": 11.89,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.0219,
+      "avg_roas": 11.89,
+      "impressions_trend": -1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "Women  Fit  &  Lift",
+    "avg_ctr": 0.018073770491803278,
+    "avg_roas": 5.31655737704918,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.018073770491803278,
+      "avg_roas": 5.31655737704918,
+      "impressions_trend": -1.0,
+      "count_rows": 61
+    }
+  },
+  {
+    "campaign_name": "Women Fit & Lift",
+    "avg_ctr": 0.017426573426573427,
+    "avg_roas": 5.6961538461538455,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.017426573426573427,
+      "avg_roas": 5.6961538461538455,
+      "impressions_trend": -1.0,
+      "count_rows": 143
+    }
+  },
+  {
+    "campaign_name": "men comfortmax launch",
+    "avg_ctr": 0.016122727272727275,
+    "avg_roas": 18.176818181818184,
+    "hypotheses": [
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.6,
+    "evidence": {
+      "avg_ctr": 0.016122727272727275,
+      "avg_roas": 18.176818181818184,
+      "impressions_trend": -1.0,
+      "count_rows": 44
+    }
+  },
+  {
+    "campaign_name": " OMEN  Cotton  Classics",
+    "avg_ctr": 0.0102,
+    "avg_roas": 9.84,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0102,
+      "avg_roas": 9.84,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "-omen-Studio Sports",
+    "avg_ctr": 0.0096,
+    "avg_roas": 29.49,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0096,
+      "avg_roas": 29.49,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "-omen_|_Studio_Sports",
+    "avg_ctr": 0.0114,
+    "avg_roas": 26.26,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0114,
+      "avg_roas": 26.26,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN  Si-nature  Soft",
+    "avg_ctr": 0.0187,
+    "avg_roas": 0.98,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0187,
+      "avg_roas": 0.98,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN -ignature Soft",
+    "avg_ctr": 0.013600000000000001,
+    "avg_roas": 0.865,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.013600000000000001,
+      "avg_roas": 0.865,
+      "impressions_trend": 1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "MEN SIGATURE SOFT",
+    "avg_ctr": 0.0163,
+    "avg_roas": 0.36,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0163,
+      "avg_roas": 0.36,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN SIGNATURE S-FT",
+    "avg_ctr": 0.0142,
+    "avg_roas": 1.48,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0142,
+      "avg_roas": 1.48,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN SIGNATURE SOT",
+    "avg_ctr": 0.0118,
+    "avg_roas": 3.14,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0118,
+      "avg_roas": 3.14,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Signa-ure Soft",
+    "avg_ctr": 0.0215,
+    "avg_roas": 0.9,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0215,
+      "avg_roas": 0.9,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Signatu e Soft",
+    "avg_ctr": 0.0132,
+    "avg_roas": 0.49,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0132,
+      "avg_roas": 0.49,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Signatue Soft",
+    "avg_ctr": 0.0166,
+    "avg_roas": 0.93,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0166,
+      "avg_roas": 0.93,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Signature  oft",
+    "avg_ctr": 0.0123,
+    "avg_roas": 1.39,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0123,
+      "avg_roas": 1.39,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Signature Sot",
+    "avg_ctr": 0.0123,
+    "avg_roas": 0.95,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0123,
+      "avg_roas": 0.95,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Signature-Soft",
+    "avg_ctr": 0.0189,
+    "avg_roas": 1.44,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0189,
+      "avg_roas": 1.44,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN Sinature Soft",
+    "avg_ctr": 0.0098,
+    "avg_roas": 1.9,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0098,
+      "avg_roas": 1.9,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN_Signa ure_Soft",
+    "avg_ctr": 0.0166,
+    "avg_roas": 1.31,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0166,
+      "avg_roas": 1.31,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Me   Premium  Modal",
+    "avg_ctr": 0.0061,
+    "avg_roas": 2.33,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0061,
+      "avg_roas": 2.33,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Me  Premium Modal",
+    "avg_ctr": 0.0105,
+    "avg_roas": 6.16,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0105,
+      "avg_roas": 6.16,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  Bold  Colors  Drop",
+    "avg_ctr": 0.009786792452830187,
+    "avg_roas": 2.8688679245283017,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.009786792452830187,
+      "avg_roas": 2.8688679245283017,
+      "impressions_trend": 1.0,
+      "count_rows": 53
+    }
+  },
+  {
+    "campaign_name": "Men  Co fortMax  Launch",
+    "avg_ctr": 0.0109,
+    "avg_roas": 3.42,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0109,
+      "avg_roas": 3.42,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  Premium  Modal",
+    "avg_ctr": 0.011256862745098038,
+    "avg_roas": 8.080980392156864,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.011256862745098038,
+      "avg_roas": 8.080980392156864,
+      "impressions_trend": 1.0,
+      "count_rows": 51
+    }
+  },
+  {
+    "campaign_name": "Men  old  Colors  Drop",
+    "avg_ctr": 0.0101,
+    "avg_roas": 4.32,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0101,
+      "avg_roas": 4.32,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  remium Modal",
+    "avg_ctr": 0.0104,
+    "avg_roas": 6.29,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0104,
+      "avg_roas": 6.29,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  |  Athleisure  Coling",
+    "avg_ctr": 0.02,
+    "avg_roas": 1.36,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.02,
+      "avg_roas": 1.36,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men -old Colors Drop",
+    "avg_ctr": 0.0083,
+    "avg_roas": 2.14,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0083,
+      "avg_roas": 2.14,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men B ld Colors Drop",
+    "avg_ctr": 0.012,
+    "avg_roas": 5.98,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.012,
+      "avg_roas": 5.98,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bold -olors Drop",
+    "avg_ctr": 0.0093,
+    "avg_roas": 2.17,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0093,
+      "avg_roas": 2.17,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bold C-lors Drop",
+    "avg_ctr": 0.013,
+    "avg_roas": 0.62,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.013,
+      "avg_roas": 0.62,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bold Col-rs Drop",
+    "avg_ctr": 0.0084,
+    "avg_roas": 15.99,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0084,
+      "avg_roas": 15.99,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colo s Drop",
+    "avg_ctr": 0.0116,
+    "avg_roas": 3.74,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0116,
+      "avg_roas": 3.74,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colors Drop",
+    "avg_ctr": 0.009005882352941178,
+    "avg_roas": 2.681225490196078,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.009005882352941178,
+      "avg_roas": 2.681225490196078,
+      "impressions_trend": 1.0,
+      "count_rows": 204
+    }
+  },
+  {
+    "campaign_name": "Men Pr-mium Modal",
+    "avg_ctr": 0.0114,
+    "avg_roas": 20.28,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0114,
+      "avg_roas": 20.28,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Pre ium Modal",
+    "avg_ctr": 0.0109,
+    "avg_roas": 4.5,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0109,
+      "avg_roas": 4.5,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Premiu- Modal",
+    "avg_ctr": 0.0103,
+    "avg_roas": 4.03,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0103,
+      "avg_roas": 4.03,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Premium -odal",
+    "avg_ctr": 0.0066,
+    "avg_roas": 1.59,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0066,
+      "avg_roas": 1.59,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Premium M-dal",
+    "avg_ctr": 0.0098,
+    "avg_roas": 2.65,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0098,
+      "avg_roas": 2.65,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Premium Mod-l",
+    "avg_ctr": 0.0101,
+    "avg_roas": 2.71,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0101,
+      "avg_roas": 2.71,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Premium Modal",
+    "avg_ctr": 0.010747435897435898,
+    "avg_roas": 9.932649572649572,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.010747435897435898,
+      "avg_roas": 9.932649572649572,
+      "impressions_trend": 1.0,
+      "count_rows": 234
+    }
+  },
+  {
+    "campaign_name": "Men remium Modal",
+    "avg_ctr": 0.0084,
+    "avg_roas": 2.61,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0084,
+      "avg_roas": 2.61,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men- Premium  Modal",
+    "avg_ctr": 0.0081,
+    "avg_roas": 13.83,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0081,
+      "avg_roas": 13.83,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men-Bold Colors Drop",
+    "avg_ctr": 0.014,
+    "avg_roas": 0.87,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.014,
+      "avg_roas": 0.87,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men-Premium Modal",
+    "avg_ctr": 0.0099,
+    "avg_roas": 10.07,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0099,
+      "avg_roas": 10.07,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men_Bold_Colors_Drop",
+    "avg_ctr": 0.009314285714285714,
+    "avg_roas": 2.619795918367347,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.009314285714285714,
+      "avg_roas": 2.619795918367347,
+      "impressions_trend": 1.0,
+      "count_rows": 49
+    }
+  },
+  {
+    "campaign_name": "W MEN Cotton Classics",
+    "avg_ctr": 0.0088,
+    "avg_roas": 15.44,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0088,
+      "avg_roas": 15.44,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "W men-Studio Sports",
+    "avg_ctr": 0.0116,
+    "avg_roas": 38.05,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0116,
+      "avg_roas": 38.05,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WMEN Seamless Everyday",
+    "avg_ctr": 0.0098,
+    "avg_roas": 31.14,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0098,
+      "avg_roas": 31.14,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOEN  Cotton  Classics",
+    "avg_ctr": 0.0054,
+    "avg_roas": 2.67,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0054,
+      "avg_roas": 2.67,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOM N FIT & LIFT",
+    "avg_ctr": 0.0228,
+    "avg_roas": 0.72,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0228,
+      "avg_roas": 0.72,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN  -eamless  Everyday",
+    "avg_ctr": 0.0097,
+    "avg_roas": 12.68,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0097,
+      "avg_roas": 12.68,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Cotton  Classics",
+    "avg_ctr": 0.010655769230769227,
+    "avg_roas": 12.503461538461538,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.010655769230769227,
+      "avg_roas": 12.503461538461538,
+      "impressions_trend": 1.0,
+      "count_rows": 52
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Seamles   Everyday",
+    "avg_ctr": 0.0091,
+    "avg_roas": 4.52,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0091,
+      "avg_roas": 4.52,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Seamless- Everyday",
+    "avg_ctr": 0.01065,
+    "avg_roas": 2.245,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.01065,
+      "avg_roas": 2.245,
+      "impressions_trend": 1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "WOMEN C tton Classics",
+    "avg_ctr": 0.01095,
+    "avg_roas": 10.940000000000001,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.01095,
+      "avg_roas": 10.940000000000001,
+      "impressions_trend": 1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "WOMEN COTTON CLASSICS",
+    "avg_ctr": 0.01096595744680851,
+    "avg_roas": 11.01212765957447,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.01096595744680851,
+      "avg_roas": 11.01212765957447,
+      "impressions_trend": 1.0,
+      "count_rows": 47
+    }
+  },
+  {
+    "campaign_name": "WOMEN COTTON CLASSIS",
+    "avg_ctr": 0.0096,
+    "avg_roas": 4.69,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0096,
+      "avg_roas": 4.69,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN COTTON LASSICS",
+    "avg_ctr": 0.0102,
+    "avg_roas": 11.19,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0102,
+      "avg_roas": 11.19,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN Cot-on Classics",
+    "avg_ctr": 0.0095,
+    "avg_roas": 4.67,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0095,
+      "avg_roas": 4.67,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN Cotton Cla-sics",
+    "avg_ctr": 0.011,
+    "avg_roas": 1.64,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.011,
+      "avg_roas": 1.64,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN Cotton Classis",
+    "avg_ctr": 0.0126,
+    "avg_roas": 0.91,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0126,
+      "avg_roas": 0.91,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN FIT  LIFT",
+    "avg_ctr": 0.0208,
+    "avg_roas": 1.06,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0208,
+      "avg_roas": 1.06,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN SEAM ESS EVERYDAY",
+    "avg_ctr": 0.0092,
+    "avg_roas": 3.32,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0092,
+      "avg_roas": 3.32,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN SEAMLESS EV RYDAY",
+    "avg_ctr": 0.0079,
+    "avg_roas": 7.64,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0079,
+      "avg_roas": 7.64,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN SEAMLESS EVE YDAY",
+    "avg_ctr": 0.0075,
+    "avg_roas": 2.96,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0075,
+      "avg_roas": 2.96,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN SEAMLESS EVERYDAY",
+    "avg_ctr": 0.008322448979591836,
+    "avg_roas": 13.327755102040815,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.008322448979591836,
+      "avg_roas": 13.327755102040815,
+      "impressions_trend": 1.0,
+      "count_rows": 49
+    }
+  },
+  {
+    "campaign_name": "WOMEN SUMMER INVISIBE",
+    "avg_ctr": 0.0124,
+    "avg_roas": 1.04,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0124,
+      "avg_roas": 1.04,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN SUMMER INVISIBLE",
+    "avg_ctr": 0.010731578947368422,
+    "avg_roas": 6.588596491228071,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.010731578947368422,
+      "avg_roas": 6.588596491228071,
+      "impressions_trend": 1.0,
+      "count_rows": 57
+    }
+  },
+  {
+    "campaign_name": "WOMEN Seamless E eryday",
+    "avg_ctr": 0.0108,
+    "avg_roas": 14.86,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0108,
+      "avg_roas": 14.86,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN Seamless Eeryday",
+    "avg_ctr": 0.0096,
+    "avg_roas": 16.5,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0096,
+      "avg_roas": 16.5,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN Seamless Everydy",
+    "avg_ctr": 0.0053,
+    "avg_roas": 13.92,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0053,
+      "avg_roas": 13.92,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN Semless Everyday",
+    "avg_ctr": 0.0088,
+    "avg_roas": 3.26,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0088,
+      "avg_roas": 3.26,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN eamless Everyday",
+    "avg_ctr": 0.0086,
+    "avg_roas": 2.16,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0086,
+      "avg_roas": 2.16,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN otton Classics",
+    "avg_ctr": 0.0107,
+    "avg_roas": 6.3,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0107,
+      "avg_roas": 6.3,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN | SUDIO SPORTS",
+    "avg_ctr": 0.0093,
+    "avg_roas": 7.94,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0093,
+      "avg_roas": 7.94,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMENSeamless Everyday",
+    "avg_ctr": 0.0091,
+    "avg_roas": 11.51,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0091,
+      "avg_roas": 11.51,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN_Cot-on_Classics",
+    "avg_ctr": 0.0088,
+    "avg_roas": 3.27,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0088,
+      "avg_roas": 3.27,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN_Cotton_Classics",
+    "avg_ctr": 0.010508333333333333,
+    "avg_roas": 12.58375,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.010508333333333333,
+      "avg_roas": 12.58375,
+      "impressions_trend": 1.0,
+      "count_rows": 48
+    }
+  },
+  {
+    "campaign_name": "WOMEN_Seamless_Ever-day",
+    "avg_ctr": 0.0081,
+    "avg_roas": 6.36,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0081,
+      "avg_roas": 6.36,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN_otton_Classics",
+    "avg_ctr": 0.012,
+    "avg_roas": 14.38,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.012,
+      "avg_roas": 14.38,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMN Cotton Classics",
+    "avg_ctr": 0.0115,
+    "avg_roas": 6.54,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0115,
+      "avg_roas": 6.54,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMN_Cotton_Classics",
+    "avg_ctr": 0.006,
+    "avg_roas": 9.73,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.006,
+      "avg_roas": 9.73,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wmen | Studio Sports",
+    "avg_ctr": 0.0062,
+    "avg_roas": 1.95,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0062,
+      "avg_roas": 1.95,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wom n-Studio Sports",
+    "avg_ctr": 0.012,
+    "avg_roas": 6.48,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.012,
+      "avg_roas": 6.48,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Wom-n Fit & Lift",
+    "avg_ctr": 0.0152,
+    "avg_roas": 0.52,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0152,
+      "avg_roas": 0.52,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women  |  Studio Sports",
+    "avg_ctr": 0.0102,
+    "avg_roas": 30.92,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0102,
+      "avg_roas": 30.92,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Cottn Classics",
+    "avg_ctr": 0.0084,
+    "avg_roas": 5.4,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0084,
+      "avg_roas": 5.4,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Cotton lassics",
+    "avg_ctr": 0.0083,
+    "avg_roas": 11.0,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0083,
+      "avg_roas": 11.0,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Fit  Lift",
+    "avg_ctr": 0.0083,
+    "avg_roas": 2.52,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0083,
+      "avg_roas": 2.52,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Fit & ift",
+    "avg_ctr": 0.0123,
+    "avg_roas": 0.28,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0123,
+      "avg_roas": 0.28,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Semless Everyday",
+    "avg_ctr": 0.0113,
+    "avg_roas": 3.3,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0113,
+      "avg_roas": 3.3,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Summer In-isible",
+    "avg_ctr": 0.0097,
+    "avg_roas": 2.15,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0097,
+      "avg_roas": 2.15,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Summer Invisible",
+    "avg_ctr": 0.010343478260869565,
+    "avg_roas": 6.361086956521739,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.010343478260869565,
+      "avg_roas": 6.361086956521739,
+      "impressions_trend": 1.0,
+      "count_rows": 46
+    }
+  },
+  {
+    "campaign_name": "Women | Stu io Sports",
+    "avg_ctr": 0.0093,
+    "avg_roas": 8.48,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0093,
+      "avg_roas": 8.48,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women | Studio Spo-ts",
+    "avg_ctr": 0.0095,
+    "avg_roas": 3.52,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0095,
+      "avg_roas": 3.52,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women | Studio Sports",
+    "avg_ctr": 0.011162857142857145,
+    "avg_roas": 17.319642857142856,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.011162857142857145,
+      "avg_roas": 17.319642857142856,
+      "impressions_trend": 1.0,
+      "count_rows": 140
+    }
+  },
+  {
+    "campaign_name": "Women | tudio Sports",
+    "avg_ctr": 0.0113,
+    "avg_roas": 17.18,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0113,
+      "avg_roas": 17.18,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women-Studio -ports",
+    "avg_ctr": 0.009,
+    "avg_roas": 6.63,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.009,
+      "avg_roas": 6.63,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women-Studio S orts",
+    "avg_ctr": 0.0066,
+    "avg_roas": 2.61,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0066,
+      "avg_roas": 2.61,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women-Studio Spo-ts",
+    "avg_ctr": 0.0104,
+    "avg_roas": 19.17,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0104,
+      "avg_roas": 19.17,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women-Studio Sports",
+    "avg_ctr": 0.011263934426229506,
+    "avg_roas": 11.965499999999999,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.011263934426229506,
+      "avg_roas": 11.965499999999999,
+      "impressions_trend": 1.0,
+      "count_rows": 61
+    }
+  },
+  {
+    "campaign_name": "Women-Studio-Sports",
+    "avg_ctr": 0.0089,
+    "avg_roas": 41.07,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0089,
+      "avg_roas": 41.07,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WomenCotton Classics",
+    "avg_ctr": 0.0095,
+    "avg_roas": 8.25,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0095,
+      "avg_roas": 8.25,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WomenSeamless Everyday",
+    "avg_ctr": 0.011,
+    "avg_roas": 10.4,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.011,
+      "avg_roas": 10.4,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women_-it_&_Lift",
+    "avg_ctr": 0.0137,
+    "avg_roas": 0.66,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0137,
+      "avg_roas": 0.66,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women_|-Studio_Sports",
+    "avg_ctr": 0.0097,
+    "avg_roas": 6.3,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0097,
+      "avg_roas": 6.3,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women_|_Studio_ ports",
+    "avg_ctr": 0.0113,
+    "avg_roas": 22.78,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0113,
+      "avg_roas": 22.78,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "en comfortmax launch",
+    "avg_ctr": 0.0161,
+    "avg_roas": 0.78,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0161,
+      "avg_roas": 0.78,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "me bold colors drop",
+    "avg_ctr": 0.0092,
+    "avg_roas": 1.88,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0092,
+      "avg_roas": 1.88,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "men bld colors drop",
+    "avg_ctr": 0.0087,
+    "avg_roas": 1.78,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0087,
+      "avg_roas": 1.78,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "men bo-d colors drop",
+    "avg_ctr": 0.0111,
+    "avg_roas": 2.78,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0111,
+      "avg_roas": 2.78,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "men bold clors drop",
+    "avg_ctr": 0.0119,
+    "avg_roas": 2.05,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0119,
+      "avg_roas": 2.05,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "men s gnature soft",
+    "avg_ctr": 0.015,
+    "avg_roas": 1.07,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.015,
+      "avg_roas": 1.07,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "men sig ature soft",
+    "avg_ctr": 0.013,
+    "avg_roas": 0.24,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.013,
+      "avg_roas": 0.24,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "omen Summer Invisible",
+    "avg_ctr": 0.0119,
+    "avg_roas": 5.6,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0119,
+      "avg_roas": 5.6,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "w-men cotton classics",
+    "avg_ctr": 0.0094,
+    "avg_roas": 9.35,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0094,
+      "avg_roas": 9.35,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "wo-en seamless everyday",
+    "avg_ctr": 0.0097,
+    "avg_roas": 4.74,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0097,
+      "avg_roas": 4.74,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "woen Summer Invisible",
+    "avg_ctr": 0.0118,
+    "avg_roas": 17.92,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0118,
+      "avg_roas": 17.92,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "wome  Summer Invisible",
+    "avg_ctr": 0.0117,
+    "avg_roas": 6.07,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0117,
+      "avg_roas": 6.07,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women  Summ r  Invisible",
+    "avg_ctr": 0.0086,
+    "avg_roas": 1.54,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0086,
+      "avg_roas": 1.54,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women  Summer  Invi ible",
+    "avg_ctr": 0.0094,
+    "avg_roas": 13.56,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0094,
+      "avg_roas": 13.56,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women  Summer  Invisib e",
+    "avg_ctr": 0.01,
+    "avg_roas": 8.78,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.01,
+      "avg_roas": 8.78,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women Su mer Invisible",
+    "avg_ctr": 0.0079,
+    "avg_roas": 24.39,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0079,
+      "avg_roas": 24.39,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women Summ-r Invisible",
+    "avg_ctr": 0.0109,
+    "avg_roas": 5.25,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0109,
+      "avg_roas": 5.25,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women Summer In isible",
+    "avg_ctr": 0.0129,
+    "avg_roas": 0.33,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.7,
+    "evidence": {
+      "avg_ctr": 0.0129,
+      "avg_roas": 0.33,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women Summer In-isible",
+    "avg_ctr": 0.0093,
+    "avg_roas": 24.31,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0093,
+      "avg_roas": 24.31,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women Summer Invisi-le",
+    "avg_ctr": 0.0089,
+    "avg_roas": 12.86,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0089,
+      "avg_roas": 12.86,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women Summer Invisible",
+    "avg_ctr": 0.010965131578947369,
+    "avg_roas": 8.895328947368421,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.010965131578947369,
+      "avg_roas": 8.895328947368421,
+      "impressions_trend": 1.0,
+      "count_rows": 152
+    }
+  },
+  {
+    "campaign_name": "women c-tton classics",
+    "avg_ctr": 0.0083,
+    "avg_roas": 3.04,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0083,
+      "avg_roas": 3.04,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women co ton classics",
+    "avg_ctr": 0.01125,
+    "avg_roas": 6.265000000000001,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.01125,
+      "avg_roas": 6.265000000000001,
+      "impressions_trend": 1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "women cott n classics",
+    "avg_ctr": 0.0093,
+    "avg_roas": 16.13,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0093,
+      "avg_roas": 16.13,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women cotton classics",
+    "avg_ctr": 0.01048490566037736,
+    "avg_roas": 13.234150943396227,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.01048490566037736,
+      "avg_roas": 13.234150943396227,
+      "impressions_trend": 1.0,
+      "count_rows": 53
+    }
+  },
+  {
+    "campaign_name": "women fit & li t",
+    "avg_ctr": 0.0078,
+    "avg_roas": 2.03,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0078,
+      "avg_roas": 2.03,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women s amless everyday",
+    "avg_ctr": 0.0088,
+    "avg_roas": 1.725,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0088,
+      "avg_roas": 1.725,
+      "impressions_trend": 1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "women seam-ess everyday",
+    "avg_ctr": 0.0092,
+    "avg_roas": 38.71,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0092,
+      "avg_roas": 38.71,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women seamess everyday",
+    "avg_ctr": 0.0077,
+    "avg_roas": 2.29,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0077,
+      "avg_roas": 2.29,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women seaml-ss everyday",
+    "avg_ctr": 0.0106,
+    "avg_roas": 2.15,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0106,
+      "avg_roas": 2.15,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women seamless everday",
+    "avg_ctr": 0.0094,
+    "avg_roas": 2.02,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0094,
+      "avg_roas": 2.02,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women seamless-everyday",
+    "avg_ctr": 0.0089,
+    "avg_roas": 16.56,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0089,
+      "avg_roas": 16.56,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women su-mer invisible",
+    "avg_ctr": 0.0057,
+    "avg_roas": 3.96,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0057,
+      "avg_roas": 3.96,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women summe- invisible",
+    "avg_ctr": 0.0088,
+    "avg_roas": 5.43,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0088,
+      "avg_roas": 5.43,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women | studio sp-rts",
+    "avg_ctr": 0.0115,
+    "avg_roas": 76.37,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0115,
+      "avg_roas": 76.37,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women | studio sprts",
+    "avg_ctr": 0.0137,
+    "avg_roas": 1.24,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0137,
+      "avg_roas": 1.24,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women_Summe _Invisible",
+    "avg_ctr": 0.0077,
+    "avg_roas": 2.41,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0077,
+      "avg_roas": 2.41,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women_Summer_Invisible",
+    "avg_ctr": 0.01125438596491228,
+    "avg_roas": 7.926842105263159,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.01125438596491228,
+      "avg_roas": 7.926842105263159,
+      "impressions_trend": 1.0,
+      "count_rows": 57
+    }
+  },
+  {
+    "campaign_name": "womn cotton classics",
+    "avg_ctr": 0.0079,
+    "avg_roas": 6.83,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.65,
+    "evidence": {
+      "avg_ctr": 0.0079,
+      "avg_roas": 6.83,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN BOLD COLORS DROP",
+    "avg_ctr": 0.009193442622950819,
+    "avg_roas": 2.3578688524590166,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.009193442622950819,
+      "avg_roas": 2.3578688524590166,
+      "impressions_trend": -1.0,
+      "count_rows": 61
+    }
+  },
+  {
+    "campaign_name": "MEN PREMIUM MODAL",
+    "avg_ctr": 0.010859615384615386,
+    "avg_roas": 11.293076923076926,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.010859615384615386,
+      "avg_roas": 11.293076923076926,
+      "impressions_trend": -1.0,
+      "count_rows": 52
+    }
+  },
+  {
+    "campaign_name": "Men ComfortMax Lau-ch",
+    "avg_ctr": 0.0117,
+    "avg_roas": 4.075,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.0117,
+      "avg_roas": 4.075,
+      "impressions_trend": -1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "Men_Premium_Modal",
+    "avg_ctr": 0.010716666666666666,
+    "avg_roas": 6.893958333333333,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.010716666666666666,
+      "avg_roas": 6.893958333333333,
+      "impressions_trend": -1.0,
+      "count_rows": 48
+    }
+  },
+  {
+    "campaign_name": "WOMEN  Seamless  Everyday",
+    "avg_ctr": 0.007728301886792452,
+    "avg_roas": 7.6850000000000005,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.007728301886792452,
+      "avg_roas": 7.6850000000000005,
+      "impressions_trend": -1.0,
+      "count_rows": 53
+    }
+  },
+  {
+    "campaign_name": "WOMEN Cotton Classics",
+    "avg_ctr": 0.01056516129032258,
+    "avg_roas": 12.938129032258063,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.01056516129032258,
+      "avg_roas": 12.938129032258063,
+      "impressions_trend": -1.0,
+      "count_rows": 155
+    }
+  },
+  {
+    "campaign_name": "WOMEN Seamless Everyday",
+    "avg_ctr": 0.008774096385542168,
+    "avg_roas": 10.931575757575757,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.008774096385542168,
+      "avg_roas": 10.931575757575757,
+      "impressions_trend": -1.0,
+      "count_rows": 166
+    }
+  },
+  {
+    "campaign_name": "WOMEN | STUDIO SPORTS",
+    "avg_ctr": 0.01115909090909091,
+    "avg_roas": 17.262954545454544,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.01115909090909091,
+      "avg_roas": 17.262954545454544,
+      "impressions_trend": -1.0,
+      "count_rows": 44
+    }
+  },
+  {
+    "campaign_name": "WOMEN_Seamless_Everyday",
+    "avg_ctr": 0.008158181818181816,
+    "avg_roas": 5.924909090909091,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.008158181818181816,
+      "avg_roas": 5.924909090909091,
+      "impressions_trend": -1.0,
+      "count_rows": 55
+    }
+  },
+  {
+    "campaign_name": "Women  |  Studio  Sports",
+    "avg_ctr": 0.011353061224489796,
+    "avg_roas": 16.24122448979592,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.011353061224489796,
+      "avg_roas": 16.24122448979592,
+      "impressions_trend": -1.0,
+      "count_rows": 49
+    }
+  },
+  {
+    "campaign_name": "Women Co-ton Classics",
+    "avg_ctr": 0.009000000000000001,
+    "avg_roas": 1.895,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.009000000000000001,
+      "avg_roas": 1.895,
+      "impressions_trend": -1.0,
+      "count_rows": 2
+    }
+  },
+  {
+    "campaign_name": "Women Cotton Classics",
+    "avg_ctr": 0.010211320754716981,
+    "avg_roas": 17.363773584905662,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.010211320754716981,
+      "avg_roas": 17.363773584905662,
+      "impressions_trend": -1.0,
+      "count_rows": 53
+    }
+  },
+  {
+    "campaign_name": "Women Seamless Everyday",
+    "avg_ctr": 0.00853191489361702,
+    "avg_roas": 6.894893617021278,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.00853191489361702,
+      "avg_roas": 6.894893617021278,
+      "impressions_trend": -1.0,
+      "count_rows": 47
+    }
+  },
+  {
+    "campaign_name": "Women_|_Studio_Sports",
+    "avg_ctr": 0.0109421875,
+    "avg_roas": 10.65484375,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.0109421875,
+      "avg_roas": 10.65484375,
+      "impressions_trend": -1.0,
+      "count_rows": 64
+    }
+  },
+  {
+    "campaign_name": "men bold colors drop",
+    "avg_ctr": 0.009633962264150944,
+    "avg_roas": 2.7326415094339613,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.009633962264150944,
+      "avg_roas": 2.7326415094339613,
+      "impressions_trend": -1.0,
+      "count_rows": 53
+    }
+  },
+  {
+    "campaign_name": "men premium modal",
+    "avg_ctr": 0.011388636363636363,
+    "avg_roas": 8.177727272727273,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.011388636363636363,
+      "avg_roas": 8.177727272727273,
+      "impressions_trend": -1.0,
+      "count_rows": 44
+    }
+  },
+  {
+    "campaign_name": "women  Summer  Invisible",
+    "avg_ctr": 0.011281481481481481,
+    "avg_roas": 8.748148148148148,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.011281481481481481,
+      "avg_roas": 8.748148148148148,
+      "impressions_trend": -1.0,
+      "count_rows": 54
+    }
+  },
+  {
+    "campaign_name": "women seamless everyday",
+    "avg_ctr": 0.007992156862745098,
+    "avg_roas": 5.475,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.007992156862745098,
+      "avg_roas": 5.475,
+      "impressions_trend": -1.0,
+      "count_rows": 51
+    }
+  },
+  {
+    "campaign_name": "women summer invisible",
+    "avg_ctr": 0.010787234042553192,
+    "avg_roas": 6.254255319148936,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.010787234042553192,
+      "avg_roas": 6.254255319148936,
+      "impressions_trend": -1.0,
+      "count_rows": 47
+    }
+  },
+  {
+    "campaign_name": "women | studio sports",
+    "avg_ctr": 0.010796666666666666,
+    "avg_roas": 12.646833333333335,
+    "hypotheses": [
+      "CTR below dataset median — creative may be underperforming.",
+      "Impressions decreasing — possible saturation or budget reallocation."
+    ],
+    "confidence": 0.75,
+    "evidence": {
+      "avg_ctr": 0.010796666666666666,
+      "avg_roas": 12.646833333333335,
+      "impressions_trend": -1.0,
+      "count_rows": 60
+    }
+  },
+  {
+    "campaign_name": " OMEN COTTON CLASSICS",
+    "avg_ctr": 0.0076,
+    "avg_roas": 0.32,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0076,
+      "avg_roas": 0.32,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "M-n Bold Colors Drop",
+    "avg_ctr": 0.0076,
+    "avg_roas": 0.71,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0076,
+      "avg_roas": 0.71,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "ME- PREMIUM MODAL",
+    "avg_ctr": 0.0117,
+    "avg_roas": 1.43,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0117,
+      "avg_roas": 1.43,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN  Signture  Soft",
+    "avg_ctr": 0.0055,
+    "avg_roas": 0.33,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0055,
+      "avg_roas": 0.33,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN B LD COLORS DROP",
+    "avg_ctr": 0.009,
+    "avg_roas": 1.4,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.009,
+      "avg_roas": 1.4,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN BLD COLORS DROP",
+    "avg_ctr": 0.0101,
+    "avg_roas": 0.4,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0101,
+      "avg_roas": 0.4,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN BOL COLORS DROP",
+    "avg_ctr": 0.0045,
+    "avg_roas": 0.55,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0045,
+      "avg_roas": 0.55,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN BOLD  OLORS DROP",
+    "avg_ctr": 0.0061,
+    "avg_roas": 0.41,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0061,
+      "avg_roas": 0.41,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN BOLD COL RS DROP",
+    "avg_ctr": 0.0054,
+    "avg_roas": 0.28,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0054,
+      "avg_roas": 0.28,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN COMFORTMA LAUNCH",
+    "avg_ctr": 0.0096,
+    "avg_roas": 0.22,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0096,
+      "avg_roas": 0.22,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN PREMIUM MOD-L",
+    "avg_ctr": 0.0057,
+    "avg_roas": 0.34,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0057,
+      "avg_roas": 0.34,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN-SIGNATURE SOFT",
+    "avg_ctr": 0.011,
+    "avg_roas": 0.59,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.011,
+      "avg_roas": 0.59,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "MEN_Signature_S ft",
+    "avg_ctr": 0.0119,
+    "avg_roas": 0.33,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0119,
+      "avg_roas": 0.33,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Me-_Bold_Colors_Drop",
+    "avg_ctr": 0.0116,
+    "avg_roas": 0.42,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0116,
+      "avg_roas": 0.42,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men  Bold  Coors  Drop",
+    "avg_ctr": 0.0072,
+    "avg_roas": 0.17,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0072,
+      "avg_roas": 0.17,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men -remium Modal",
+    "avg_ctr": 0.0112,
+    "avg_roas": 1.35,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0112,
+      "avg_roas": 1.35,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men B-ld Colors Drop",
+    "avg_ctr": 0.0066,
+    "avg_roas": 0.91,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0066,
+      "avg_roas": 0.91,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bol Colors Drop",
+    "avg_ctr": 0.0096,
+    "avg_roas": 1.42,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0096,
+      "avg_roas": 1.42,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bold Color- Drop",
+    "avg_ctr": 0.0114,
+    "avg_roas": 0.32,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0114,
+      "avg_roas": 0.32,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colors  rop",
+    "avg_ctr": 0.0118,
+    "avg_roas": 0.74,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0118,
+      "avg_roas": 0.74,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Bold Colors Dr p",
+    "avg_ctr": 0.0089,
+    "avg_roas": 0.24,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0089,
+      "avg_roas": 0.24,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men BoldColors Drop",
+    "avg_ctr": 0.0061,
+    "avg_roas": 0.51,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0061,
+      "avg_roas": 0.51,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Men Prem um Modal",
+    "avg_ctr": 0.0078,
+    "avg_roas": 0.33,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0078,
+      "avg_roas": 0.33,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "W men Summer Invisible",
+    "avg_ctr": 0.0083,
+    "avg_roas": 1.06,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0083,
+      "avg_roas": 1.06,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOEN FIT & LIFT",
+    "avg_ctr": 0.0069,
+    "avg_roas": 1.18,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0069,
+      "avg_roas": 1.18,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOME SEAMLESS EVERYDAY",
+    "avg_ctr": 0.0114,
+    "avg_roas": 1.43,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0114,
+      "avg_roas": 1.43,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "WOMEN SUMMER INVSIBLE",
+    "avg_ctr": 0.0107,
+    "avg_roas": 0.44,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0107,
+      "avg_roas": 0.44,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women C-tton Classics",
+    "avg_ctr": 0.0079,
+    "avg_roas": 0.83,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0079,
+      "avg_roas": 0.83,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women Summ-r Invisible",
+    "avg_ctr": 0.0113,
+    "avg_roas": 0.55,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0113,
+      "avg_roas": 0.55,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "Women | Studio Sp rts",
+    "avg_ctr": 0.0098,
+    "avg_roas": 1.02,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0098,
+      "avg_roas": 1.02,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "w men cotton classics",
+    "avg_ctr": 0.0088,
+    "avg_roas": 0.87,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0088,
+      "avg_roas": 0.87,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women Summer Inv-sible",
+    "avg_ctr": 0.0116,
+    "avg_roas": 0.85,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0116,
+      "avg_roas": 0.85,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women Summer Invi-ible",
+    "avg_ctr": 0.012,
+    "avg_roas": 0.66,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.012,
+      "avg_roas": 0.66,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women Summer Invisble",
+    "avg_ctr": 0.0089,
+    "avg_roas": 1.45,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0089,
+      "avg_roas": 1.45,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women cotton clasics",
+    "avg_ctr": 0.0104,
+    "avg_roas": 1.23,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0104,
+      "avg_roas": 1.23,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women s-mmer invisible",
+    "avg_ctr": 0.0085,
+    "avg_roas": 1.33,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0085,
+      "avg_roas": 1.33,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women summer in isible",
+    "avg_ctr": 0.0094,
+    "avg_roas": 1.05,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0094,
+      "avg_roas": 1.05,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women | studio spo ts",
+    "avg_ctr": 0.0062,
+    "avg_roas": 1.21,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.8,
+    "evidence": {
+      "avg_ctr": 0.0062,
+      "avg_roas": 1.21,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women_Summer_Inisible",
+    "avg_ctr": 0.0096,
+    "avg_roas": 0.53,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0096,
+      "avg_roas": 0.53,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  },
+  {
+    "campaign_name": "women_Summer_Invisi-le",
+    "avg_ctr": 0.0086,
+    "avg_roas": 0.76,
+    "hypotheses": [
+      "ROAS below target (avg_roas < 1.5) — consider audience or creative changes.",
+      "CTR below dataset median — creative may be underperforming."
+    ],
+    "confidence": 0.85,
+    "evidence": {
+      "avg_ctr": 0.0086,
+      "avg_roas": 0.76,
+      "impressions_trend": 0,
+      "count_rows": 1
+    }
+  }
+]
